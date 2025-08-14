@@ -1,0 +1,23 @@
+ ContactModel(
+        userName: 'Jane Smith',
+        phone: '+1 9876543210',
+        email: 'jane.smith@example.com',
+        imageFile: null),
+    ContactModel(
+        userName: 'Jane Smith',
+        phone: '+1 9876543210',
+        email: 'jane.smith@example.com',
+        imageFile: null),
+    ContactModel(
+        userName: 'Jane Smith',
+        phone: '+1 9876543210',
+        email: 'jane.smith@example.com',
+        imageFile: null),
+
+
+
+RegExp(r"^[a-zA-Z0-9.a-zA-Z0-9.!#$%&'*+-/=?^_`{|}~]+@[a-zA-Z0-9]+\.[a-zA-Z]+")
+
+
+
+
